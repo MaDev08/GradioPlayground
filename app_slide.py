@@ -46,4 +46,4 @@ iface = gr.Interface(
     description="Crie um slide personalizado"
 )
 
-iface.launch()
+iface.launch(share=True)
